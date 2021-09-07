@@ -30,7 +30,7 @@ The following shows a partial example of the data stored in **data.csv**:
 | Apple Crimson Snow/103_100.jpg   | Apple Crimson Snow           |
 | Grapefruit Pink/276_100.jpg      | Grapefruit Pink              |
 
-The **image_path** lists the fruit images in the relative sub folders and the **target** column associated the 131 classification labels to the various fruits. 
+The **image_path** column lists the fruit images in the relative sub folders and the **target** column associates the 131 classification labels to the various fruits. 
 
 # Community
 
